@@ -1,0 +1,67 @@
+body{ 
+
+background-color: #deb887;
+font-family: Trebuchet MS;
+font-size: 20px;
+color: #000000;
+
+ 
+} 
+
+*{
+margin: 0px;
+}
+
+
+ul {
+	
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #8b4513;
+    top: 0;
+    width: 100%;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #f75d6f;
+	color: #  ff5a5f;
+}
+
+table {
+font-family: Comic Sans MS;
+font-size: 20px;
+text-align: center;
+}
+
+caption {
+font-family: Verdana
+}
+
+p {
+font-family: Lucida Console;
+font-size: 20px;
+text-align: middle;
+color: #000000;
+}
+
+a {
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
